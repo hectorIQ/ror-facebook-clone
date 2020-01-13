@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 d095c2488f36f193c9663305b91fd37b9414cba7 Marvellous Michaels <marvellousubani@gmail.com> 1578349155 +0100	branch: Created from refs/remotes/origin/milestone-2
+d095c2488f36f193c9663305b91fd37b9414cba7 b95289822da206e4af91be1daaa21f8e2bb0d93a Marvellous Michaels <marvellousubani@gmail.com> 1578504588 +0100	pull origin milestone-2: Fast-forward
+b95289822da206e4af91be1daaa21f8e2bb0d93a b6a0503b97cb62164d833e7fd10b0732a120bac2 Marvellous Michaels <marvellousubani@gmail.com> 1578506593 +0100	commit: inserted devise config
+b6a0503b97cb62164d833e7fd10b0732a120bac2 e9a303b53c546f310e5c12868f2ff4e66fe01026 Marvellous Michaels <marvellousubani@gmail.com> 1578506766 +0100	commit: fixing stickler visibility issues
+e9a303b53c546f310e5c12868f2ff4e66fe01026 ba063e66f3aa1707d7bb81c09dd58f3954722781 Marvellous Michaels <marvellousubani@gmail.com> 1578507166 +0100	commit: fixing linter issues
+ba063e66f3aa1707d7bb81c09dd58f3954722781 9cd8332f775eb268bf7d19d10490d54748dd233b Marvellous Michaels <marvellousubani@gmail.com> 1578507276 +0100	commit: namespace issue fix
+9cd8332f775eb268bf7d19d10490d54748dd233b b0612808cb52b2e9371af32e0c0a8149c9c94442 Marvellous Michaels <marvellousubani@gmail.com> 1578507388 +0100	commit: frozen literal string fix

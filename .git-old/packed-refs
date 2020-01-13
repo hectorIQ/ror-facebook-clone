@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+a321476e8a5ff533580648f19fd672d588b99201 refs/heads/development
+b0612808cb52b2e9371af32e0c0a8149c9c94442 refs/heads/milestone-2
+df99e97142c6dd03a852ac05a09d4d5b24dc0d8d refs/heads/milestone-3
+a321476e8a5ff533580648f19fd672d588b99201 refs/remotes/origin/development
+cc06c65cb24811f35736dbaf993f79559b7d2239 refs/remotes/origin/master
+84b841a7f7141ec7855b1510d7ed355c332334ee refs/remotes/origin/milestone-1
+b0612808cb52b2e9371af32e0c0a8149c9c94442 refs/remotes/origin/milestone-2

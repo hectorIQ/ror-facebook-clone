@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 df99e97142c6dd03a852ac05a09d4d5b24dc0d8d Marvellous Michaels <marvellousubani@gmail.com> 1578674189 +0100	branch: Created from HEAD
+df99e97142c6dd03a852ac05a09d4d5b24dc0d8d 59d30bd40ad7d66813ba9d8905083d5f81d9b774 Marvellous Michaels <marvellousubani@gmail.com> 1578739791 +0100	commit: added likes controllers model and button_to
+59d30bd40ad7d66813ba9d8905083d5f81d9b774 1eb36481d8efcd01fe7e1d5eeded98d583caa8cb Marvellous Michaels <marvellousubani@gmail.com> 1578740653 +0100	commit: implemented conditional for like functionality
+1eb36481d8efcd01fe7e1d5eeded98d583caa8cb 8730d70caebd5c264b4ea12f3f367773bd0da8cc Marvellous Michaels <marvellousubani@gmail.com> 1578751156 +0100	commit: made changes with conditions and implemented like and dislike functionality
+8730d70caebd5c264b4ea12f3f367773bd0da8cc 27439f2dabc133d501301c24117e8316c7fc27a8 Marvellous Michaels <marvellousubani@gmail.com> 1578770763 +0100	commit: Implemented Comment Feature
+27439f2dabc133d501301c24117e8316c7fc27a8 6beb8ee38a01cfc1347e95cf19d81b139f17ea05 Marvellous Michaels <marvellousubani@gmail.com> 1578887001 +0100	commit: updated partials, routes, css and controllers for comments feature
